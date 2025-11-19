@@ -1,0 +1,17 @@
+{
+  "name": "lunis-backend",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "hono": "^4.10.6",
+    "xml-parser": "^1.2.1"
+  }
+}
