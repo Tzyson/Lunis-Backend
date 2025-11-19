@@ -1,0 +1,8 @@
+{
+    "bot_token": "bot token", 
+    "bot_clientid": "bot client id",
+    "bot_clientsecret": "bot client secret",
+    "guild_id": "guild id",
+    "mongourl": "mongodb://127.0.0.1/lunisbackend",
+    "api_key": "lunis123!"
+}

@@ -1,0 +1,89 @@
+{
+  "itemshop": "Lunis",
+  "sections": {
+    "section1": {
+      "daily1": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "daily2": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "daily3": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "daily4": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "daily5": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "daily6": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "featured1": {
+        "itemGrants": ["AAthenaID:CosmeticId"],
+        "price": 0
+      },
+      "featured2": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "featured3": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "featured4": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      }
+    },
+    "section2": {
+      "daily1": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "daily2": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "daily3": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "daily4": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "daily5": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "daily6": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "featured1": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "featured2": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "featured3": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      },
+      "featured4": {
+        "itemGrants": ["AthenaID:CosmeticId"],
+        "price": 0
+      }
+    }
+  }
+}
