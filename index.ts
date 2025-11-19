@@ -4,6 +4,8 @@ import routing from "./src/utils/routing";
 
 const globals = globalThis as any;
 
+globals.config = JSON.parse(await Bun.file("./config/config.json").text());
+
 routing();
 
 Bun.serve({
