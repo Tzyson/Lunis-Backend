@@ -4,7 +4,8 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/jsonwebtoken": "^9.0.10"
   },
   "peerDependencies": {
     "typescript": "^5"
@@ -12,6 +13,8 @@
   "dependencies": {
     "axios": "^1.13.2",
     "hono": "^4.10.6",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.1",
     "xml-parser": "^1.2.1"
   }
 }

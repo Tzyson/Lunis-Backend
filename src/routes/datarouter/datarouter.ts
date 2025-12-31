@@ -1,0 +1,15 @@
+import app from "../../utils/app";
+
+export default function () {
+    app.post("/datarouter/api/v1/public/data*", async (c) => {
+        return c.json({});
+    });
+
+    app.post("/datarouter/api/v1/public/data", async (c) => {
+        return c.json({});
+    });
+    
+    app.post("/datarouter/api/v1/public/data/*", async (c) => {
+        return c.json({});
+    });
+}
