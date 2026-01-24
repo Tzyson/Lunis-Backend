@@ -4,6 +4,6 @@
     "bot_clientsecret": "bot client secret",
     "guild_id": "guild id",
     "mongourl": "mongodb://127.0.0.1/lunisbackend",
-    "api_key": "lunis123!"
+    "api_key": "lunis123!",
     "dev": true
 }
